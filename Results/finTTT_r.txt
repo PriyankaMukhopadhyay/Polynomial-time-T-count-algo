@@ -1,0 +1,11 @@
+#Qubits+ancilla : 4 
+Time for distinct pairs = 0.132581 
+Distinct pairs = 48705 
+Reading TTT_chan.txt 
+Test for T-depth 100 
+Sde of given channel rep = 2 
+Hamming wt of given channel rep = 927 
+Reached Clifford. 
+Path = [ 1 :  48 :  49 :  204 :  205 :  252 :  253 : ] 
+
+Execution time = 391.269459 

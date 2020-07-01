@@ -1,0 +1,70 @@
+#Qubits+ancilla : 2 
+Matrix size N = 16 
+Reading chan2_10_5.txt 
+Test for T-depth 10 
+Sde of given channel rep = 7 
+Hamming wt of given channel rep = 120 
+----------------------------------------------------
+TEST COUNT 7
+
+-----------------------------------------------------------
+Starting iterations for depth 0
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 2    12    
+ iSde = 0  and mChange = 2 
+ After appending and removing no of unitaries = 2 
+-----------------------------------------------------------
+Starting iterations for depth 1
+
+No of current unitaries = 2
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 4    22    
+ iSde = 0  and mChange = 4 
+ After appending and removing no of unitaries = 4 
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 4
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 6    48    
+ iSde = 0  and mChange = 6 
+ After appending and removing no of unitaries = 4 
+-----------------------------------------------------------
+Starting iterations for depth 3
+
+No of current unitaries = 4
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 5    49    
+ iSde = 0  and mChange = 5 
+ After appending and removing no of unitaries = 3 
+-----------------------------------------------------------
+Starting iterations for depth 4
+
+No of current unitaries = 3
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 4    36    
+ iSde = 0  and mChange = 4 
+ After appending and removing no of unitaries = 3 
+-----------------------------------------------------------
+Starting iterations for depth 5
+
+No of current unitaries = 3
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 3    38    
+ iSde = 0  and mChange = 3 
+ After appending and removing no of unitaries = 2 
+-----------------------------------------------------------
+Starting iterations for depth 6
+
+No of current unitaries = 2
+Reached Clifford. 
+Path = [ 11 :  1 :  4 :  7 :  6 :  12 :  15 : ] 
+
+Printing Clifford :
+V[0][13]= [1,  0,  0] :V[1][12]= [-1,  0,  0] :V[2][2]= [1,  0,  0] :V[3][11]= [-1,  0,  0] :V[4][1]= [-1,  0,  0] :V[5][0]= [1,  0,  0] :V[6][14]= [-1,  0,  0] :V[7][10]= [-1,  0,  0] :V[8][4]= [-1,  0,  0] :V[9][5]= [-1,  0,  0] :V[10][7]= [-1,  0,  0] :V[11][6]= [-1,  0,  0] :V[12][8]= [1,  0,  0] :V[13][9]= [1,  0,  0] :V[14][3]= [-1,  0,  0] :
+ Quitting other unitaries.
+Stopping iterations at depth 6 
+
+Execution time = 0.030852 

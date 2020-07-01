@@ -1,0 +1,173 @@
+#Qubits+ancilla : 3 
+Time for distinct pairs = 0.018991 
+Distinct pairs = 2961 
+Reading P_chan.txt 
+Test for T-depth 20 
+Sde of given channel rep = 2 
+Hamming wt of given channel rep = 231 
+-------------------FIRST TWO LAYERS-----------------------
+
+No of current unitaries = 1
+Min changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  2856  0  0  0  0  0  0  0  0  
+  0  0  0  0  0  0  0  0  0  
+  84  0  21  0  0  0  0  0  0  
+  0  0  0  0  0  0  0  0  0  
+  0  0  0  0  0  0  0  0  0  
+  0  0  0  0  0  0  0  0  0  
+  0  0  0  0  0  0  0  0  0  
+  0  0  0  0  0  0  0  0  0  
+  0  0  0  0  0  0  0  0  0  
+ iSde = 2 ,iHam = 2 ,mChange = 21 
+After appending no of unitaries = 22 
+After removing no of unitaries = 21  and some sde = 3 
+Some ham = 359 
+Execution time for first two layers = 1.542756 ----------------------------------------------------
+Testing for count 2
+
+----------------------------------------------------
+Testing for count 3
+
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 21
+Changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  1176  0  0  
+  0  21  0  
+  0  84  21  
+ iSde = 1 ,iHam = 1 ,mChange = 21 
+UsdeTarg = 2
+No possible path.
+----------------------------------------------------
+Testing for count 4
+
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 21
+Changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  1176  0  0  
+  0  21  0  
+  0  84  21  
+ iSde = 1 ,iHam = 1 ,mChange = 21 
+UsdeTarg = 2
+No possible path.
+----------------------------------------------------
+Testing for count 5
+
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 21
+Changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  1176  0  0  
+  0  21  0  
+  0  84  21  
+ iSde = 1 ,iHam = 1 ,mChange = 21 
+After appending and removing no of unitaries = 7 
+ and some sde = 2 
+Some ham = 231 
+-----------------------------------------------------------
+Starting iterations for depth 3
+
+No of current unitaries = 7
+Changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  434  0  0  
+  0  0  0  
+  0  0  0  
+ UsdeTarg = 3
+No possible path.
+----------------------------------------------------
+Testing for count 6
+
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 21
+Changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  1176  0  0  
+  0  21  0  
+  0  84  21  
+ iSde = 1 ,iHam = 1 ,mChange = 21 
+After appending and removing no of unitaries = 7 
+ and some sde = 2 
+Some ham = 231 
+-----------------------------------------------------------
+Starting iterations for depth 3
+
+No of current unitaries = 7
+Changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  434  0  0  
+  0  0  0  
+  0  0  0  
+ UsdeTarg = 3
+No possible path.
+----------------------------------------------------
+Testing for count 7
+
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 21
+Changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  1176  0  0  
+  0  21  0  
+  0  84  21  
+ iSde = 1 ,iHam = 1 ,mChange = 21 
+After appending and removing no of unitaries = 7 
+ and some sde = 2 
+Some ham = 231 
+-----------------------------------------------------------
+Starting iterations for depth 3
+
+No of current unitaries = 7
+Changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  434  0  0  
+  0  0  0  
+  0  0  0  
+ Further division of Usde inc indices. 
+ 406  28  0  
+ iSde = 0 ,iHam = 1 ,mChange = 28 
+After appending and removing no of unitaries = 28 
+ and some sde = 3 
+Some ham = 215 
+-----------------------------------------------------------
+Starting iterations for depth 4
+
+No of current unitaries = 28
+Changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  1568  0  0  
+  0  84  0  
+  84  0  0  
+ iSde = 1 ,iHam = 1 ,mChange = 84 
+After appending and removing no of unitaries = 21 
+ and some sde = 2 
+Some ham = 143 
+-----------------------------------------------------------
+Starting iterations for depth 5
+
+No of current unitaries = 21
+Changes matrix : Sde along row and ham along col. 0:inc, 1:dec, 2:same 
+  1239  0  0  
+  0  42  0  
+  21  0  0  
+ 
+ Since sde more so iSde = 1 , iHam = 1 , mChange = 42 
+iSde = 1 ,iHam = 1 ,mChange = 42 
+After appending and removing no of unitaries = 7 
+ and some sde = 1 
+Some ham = 95 
+-----------------------------------------------------------
+Starting iterations for depth 6
+
+No of current unitaries = 7
+Reached Clifford. 
+Path = [ 1 :  12 :  13 :  48 :  49 :  60 :  61 : ] 
+
+Printing Clifford :
+V[0][0]= [1,  0,  0] :V[1][61]= [-1,  0,  0] :V[2][62]= [-1,  0,  0] :V[3][52]= [-1,  0,  0] :V[4][51]= [-1,  0,  0] :V[5][10]= [1,  0,  0] :V[6][9]= [-1,  0,  0] :V[7][8]= [-1,  0,  0] :V[8][7]= [-1,  0,  0] :V[9][54]= [-1,  0,  0] :V[10][53]= [1,  0,  0] :V[11][59]= [1,  0,  0] :V[12][60]= [1,  0,  0] :V[13][1]= [-1,  0,  0] :V[14][2]= [-1,  0,  0] :V[15][39]= [1,  0,  0] :V[16][40]= [1,  0,  0] :V[17][21]= [1,  0,  0] :V[18][22]= [1,  0,  0] :V[19][28]= [-1,  0,  0] :V[20][27]= [-1,  0,  0] :V[21][34]= [1,  0,  0] :V[22][33]= [-1,  0,  0] :V[23][32]= [-1,  0,  0] :V[24][31]= [-1,  0,  0] :V[25][30]= [-1,  0,  0] :V[26][29]= [1,  0,  0] :V[27][19]= [-1,  0,  0] :V[28][20]= [-1,  0,  0] :V[29][41]= [-1,  0,  0] :V[30][42]= [-1,  0,  0] :V[31][23]= [-1,  0,  0] :V[32][24]= [-1,  0,  0] :V[33][37]= [1,  0,  0] :V[34][38]= [1,  0,  0] :V[35][44]= [-1,  0,  0] :V[36][43]= [-1,  0,  0] :V[37][18]= [-1,  0,  0] :V[38][17]= [1,  0,  0] :V[39][16]= [1,  0,  0] :V[40][15]= [1,  0,  0] :V[41][46]= [-1,  0,  0] :V[42][45]= [1,  0,  0] :V[43][35]= [-1,  0,  0] :V[44][36]= [-1,  0,  0] :V[45][25]= [1,  0,  0] :V[46][26]= [1,  0,  0] :V[47][47]= [1,  0,  0] :V[48][48]= [1,  0,  0] :V[49][13]= [-1,  0,  0] :V[50][14]= [-1,  0,  0] :V[51][4]= [-1,  0,  0] :V[52][3]= [-1,  0,  0] :V[53][58]= [1,  0,  0] :V[54][57]= [-1,  0,  0] :V[55][56]= [-1,  0,  0] :V[56][55]= [-1,  0,  0] :V[57][6]= [-1,  0,  0] :V[58][5]= [1,  0,  0] :V[59][11]= [1,  0,  0] :V[60][12]= [1,  0,  0] :V[61][49]= [-1,  0,  0] :V[62][50]= [-1,  0,  0] :
+ Quitting other unitaries.
+Stopping iterations at depth 6 
+
+Execution time = 10.026295 

@@ -1,0 +1,882 @@
+#Qubits+ancilla : 2 
+Matrix size N = 16 
+Reading chan2_40_8.txt 
+Test for T-depth 40 
+Sde of given channel rep = 23 
+Hamming wt of given channel rep = 224 
+----------------------------------------------------
+TEST COUNT 23
+
+-----------------------------------------------------------
+Starting iterations for depth 0
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 2    12    
+ iSde = 0  and mChange = 2 
+ After appending and removing no of unitaries = 2 
+-----------------------------------------------------------
+Starting iterations for depth 1
+
+No of current unitaries = 2
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 4    22    
+ iSde = 0  and mChange = 4 
+ After appending and removing no of unitaries = 4 
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 4
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 8    44    
+ iSde = 0  and mChange = 8 
+ After appending and removing no of unitaries = 6 
+-----------------------------------------------------------
+Starting iterations for depth 3
+
+No of current unitaries = 6
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 12    66    
+ iSde = 0  and mChange = 12 
+ After appending and removing no of unitaries = 10 
+-----------------------------------------------------------
+Starting iterations for depth 4
+
+No of current unitaries = 10
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 20    110    
+ iSde = 0  and mChange = 20 
+ After appending and removing no of unitaries = 14 
+-----------------------------------------------------------
+Starting iterations for depth 5
+
+No of current unitaries = 14
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 26    154    
+ iSde = 0  and mChange = 26 
+ After appending and removing no of unitaries = 20 
+-----------------------------------------------------------
+Starting iterations for depth 6
+
+No of current unitaries = 20
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 36    228    
+ iSde = 0  and mChange = 36 
+ After appending and removing no of unitaries = 25 
+-----------------------------------------------------------
+Starting iterations for depth 7
+
+No of current unitaries = 25
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 38    289    
+ iSde = 0  and mChange = 38 
+ After appending and removing no of unitaries = 27 
+-----------------------------------------------------------
+Starting iterations for depth 8
+
+No of current unitaries = 27
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 27    317    
+ iSde = 0  and mChange = 27 
+ After appending and removing no of unitaries = 22 
+-----------------------------------------------------------
+Starting iterations for depth 9
+
+No of current unitaries = 22
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 36    250    
+ iSde = 0  and mChange = 36 
+ After appending and removing no of unitaries = 25 
+-----------------------------------------------------------
+Starting iterations for depth 10
+
+No of current unitaries = 25
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 40    292    
+ iSde = 0  and mChange = 40 
+ After appending and removing no of unitaries = 32 
+-----------------------------------------------------------
+Starting iterations for depth 11
+
+No of current unitaries = 32
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 0    394    
+ iSde = 1  and mChange = 394 
+ After appending and removing no of unitaries = 0 
+
+No possible path. No unitaries left. 
+----------------------------------------------------
+TEST COUNT 24
+
+-----------------------------------------------------------
+Starting iterations for depth 0
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 2    12    
+ iSde = 0  and mChange = 2 
+ After appending and removing no of unitaries = 3 
+-----------------------------------------------------------
+Starting iterations for depth 1
+
+No of current unitaries = 3
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 6    34    
+ iSde = 0  and mChange = 6 
+ After appending and removing no of unitaries = 6 
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 6
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 8    66    
+ iSde = 0  and mChange = 8 
+ After appending and removing no of unitaries = 10 
+-----------------------------------------------------------
+Starting iterations for depth 3
+
+No of current unitaries = 10
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 16    114    
+ iSde = 0  and mChange = 16 
+ After appending and removing no of unitaries = 16 
+-----------------------------------------------------------
+Starting iterations for depth 4
+
+No of current unitaries = 16
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 20    180    
+ iSde = 0  and mChange = 20 
+ After appending and removing no of unitaries = 24 
+-----------------------------------------------------------
+Starting iterations for depth 5
+
+No of current unitaries = 24
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 34    274    
+ iSde = 0  and mChange = 34 
+ After appending and removing no of unitaries = 36 
+-----------------------------------------------------------
+Starting iterations for depth 6
+
+No of current unitaries = 36
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 46    416    
+ iSde = 0  and mChange = 46 
+ After appending and removing no of unitaries = 44 
+-----------------------------------------------------------
+Starting iterations for depth 7
+
+No of current unitaries = 44
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 52    514    
+ iSde = 0  and mChange = 52 
+ After appending and removing no of unitaries = 52 
+-----------------------------------------------------------
+Starting iterations for depth 8
+
+No of current unitaries = 52
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 46    610    
+ iSde = 0  and mChange = 46 
+ After appending and removing no of unitaries = 56 
+-----------------------------------------------------------
+Starting iterations for depth 9
+
+No of current unitaries = 56
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 40    647    
+ iSde = 0  and mChange = 40 
+ After appending and removing no of unitaries = 47 
+-----------------------------------------------------------
+Starting iterations for depth 10
+
+No of current unitaries = 47
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 65    555    
+ iSde = 0  and mChange = 65 
+ After appending and removing no of unitaries = 56 
+-----------------------------------------------------------
+Starting iterations for depth 11
+
+No of current unitaries = 56
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 31    670    
+ iSde = 0  and mChange = 31 
+ After appending and removing no of unitaries = 58 
+-----------------------------------------------------------
+Starting iterations for depth 12
+
+No of current unitaries = 58
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 80    680    
+ iSde = 0  and mChange = 80 
+ After appending and removing no of unitaries = 42 
+-----------------------------------------------------------
+Starting iterations for depth 13
+
+No of current unitaries = 42
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 46    462    
+ iSde = 0  and mChange = 46 
+ After appending and removing no of unitaries = 22 
+-----------------------------------------------------------
+Starting iterations for depth 14
+
+No of current unitaries = 22
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 32    242    
+ iSde = 0  and mChange = 32 
+ After appending and removing no of unitaries = 20 
+-----------------------------------------------------------
+Starting iterations for depth 15
+
+No of current unitaries = 20
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 30    220    
+ iSde = 0  and mChange = 30 
+ After appending and removing no of unitaries = 20 
+-----------------------------------------------------------
+Starting iterations for depth 16
+
+No of current unitaries = 20
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 20    220    
+ iSde = 0  and mChange = 20 
+ After appending and removing no of unitaries = 10 
+-----------------------------------------------------------
+Starting iterations for depth 17
+
+No of current unitaries = 10
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 10    110    
+ iSde = 0  and mChange = 10 
+ After appending and removing no of unitaries = 10 
+-----------------------------------------------------------
+Starting iterations for depth 18
+
+No of current unitaries = 10
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 10    110    
+ iSde = 0  and mChange = 10 
+ After appending and removing no of unitaries = 10 
+-----------------------------------------------------------
+Starting iterations for depth 19
+
+No of current unitaries = 10
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 0    110    
+ iSde = 1  and mChange = 110 
+ After appending and removing no of unitaries = 0 
+
+No possible path. No unitaries left. 
+----------------------------------------------------
+TEST COUNT 25
+
+-----------------------------------------------------------
+Starting iterations for depth 0
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 2    12    
+ iSde = 0  and mChange = 2 
+ After appending and removing no of unitaries = 3 
+-----------------------------------------------------------
+Starting iterations for depth 1
+
+No of current unitaries = 3
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 6    34    
+ iSde = 0  and mChange = 6 
+ After appending and removing no of unitaries = 6 
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 6
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 8    66    
+ iSde = 0  and mChange = 8 
+ After appending and removing no of unitaries = 16 
+-----------------------------------------------------------
+Starting iterations for depth 3
+
+No of current unitaries = 16
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 28    186    
+ iSde = 0  and mChange = 28 
+ After appending and removing no of unitaries = 26 
+-----------------------------------------------------------
+Starting iterations for depth 4
+
+No of current unitaries = 26
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 40    294    
+ iSde = 0  and mChange = 40 
+ After appending and removing no of unitaries = 52 
+-----------------------------------------------------------
+Starting iterations for depth 5
+
+No of current unitaries = 52
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 90    596    
+ iSde = 0  and mChange = 90 
+ After appending and removing no of unitaries = 86 
+-----------------------------------------------------------
+Starting iterations for depth 6
+
+No of current unitaries = 86
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 142    978    
+ iSde = 0  and mChange = 142 
+ After appending and removing no of unitaries = 138 
+-----------------------------------------------------------
+Starting iterations for depth 7
+
+No of current unitaries = 138
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 230    1574    
+ iSde = 0  and mChange = 230 
+ After appending and removing no of unitaries = 204 
+-----------------------------------------------------------
+Starting iterations for depth 8
+
+No of current unitaries = 204
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 316    2334    
+ iSde = 0  and mChange = 316 
+ After appending and removing no of unitaries = 270 
+-----------------------------------------------------------
+Starting iterations for depth 9
+
+No of current unitaries = 270
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 372    3088    
+ iSde = 0  and mChange = 372 
+ After appending and removing no of unitaries = 329 
+-----------------------------------------------------------
+Starting iterations for depth 10
+
+No of current unitaries = 329
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 352    3882    
+ iSde = 0  and mChange = 352 
+ After appending and removing no of unitaries = 281 
+-----------------------------------------------------------
+Starting iterations for depth 11
+
+No of current unitaries = 281
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 398    3252    
+ iSde = 0  and mChange = 398 
+ After appending and removing no of unitaries = 332 
+-----------------------------------------------------------
+Starting iterations for depth 12
+
+No of current unitaries = 332
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 501    3844    
+ iSde = 0  and mChange = 501 
+ After appending and removing no of unitaries = 371 
+-----------------------------------------------------------
+Starting iterations for depth 13
+
+No of current unitaries = 371
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 92    4468    
+ iSde = 0  and mChange = 92 
+ After appending and removing no of unitaries = 121 
+-----------------------------------------------------------
+Starting iterations for depth 14
+
+No of current unitaries = 121
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 114    1285    
+ iSde = 0  and mChange = 114 
+ After appending and removing no of unitaries = 85 
+-----------------------------------------------------------
+Starting iterations for depth 15
+
+No of current unitaries = 85
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 70    940    
+ iSde = 0  and mChange = 70 
+ After appending and removing no of unitaries = 72 
+-----------------------------------------------------------
+Starting iterations for depth 16
+
+No of current unitaries = 72
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 44    794    
+ iSde = 0  and mChange = 44 
+ After appending and removing no of unitaries = 60 
+-----------------------------------------------------------
+Starting iterations for depth 17
+
+No of current unitaries = 60
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 60    603    
+ iSde = 0  and mChange = 60 
+ After appending and removing no of unitaries = 50 
+-----------------------------------------------------------
+Starting iterations for depth 18
+
+No of current unitaries = 50
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 26    543    
+ iSde = 0  and mChange = 26 
+ After appending and removing no of unitaries = 36 
+-----------------------------------------------------------
+Starting iterations for depth 19
+
+No of current unitaries = 36
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 16    347    
+ iSde = 0  and mChange = 16 
+ After appending and removing no of unitaries = 36 
+-----------------------------------------------------------
+Starting iterations for depth 20
+
+No of current unitaries = 36
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 26    315    
+ iSde = 0  and mChange = 26 
+ After appending and removing no of unitaries = 16 
+-----------------------------------------------------------
+Starting iterations for depth 21
+
+No of current unitaries = 16
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 16    112    
+ iSde = 0  and mChange = 16 
+ After appending and removing no of unitaries = 16 
+-----------------------------------------------------------
+Starting iterations for depth 22
+
+No of current unitaries = 16
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 0    224    
+ iSde = 1  and mChange = 224 
+ After appending and removing no of unitaries = 0 
+
+No possible path. No unitaries left. 
+----------------------------------------------------
+TEST COUNT 26
+
+-----------------------------------------------------------
+Starting iterations for depth 0
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 2    12    
+ iSde = 0  and mChange = 2 
+ After appending and removing no of unitaries = 3 
+-----------------------------------------------------------
+Starting iterations for depth 1
+
+No of current unitaries = 3
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 6    34    
+ iSde = 0  and mChange = 6 
+ After appending and removing no of unitaries = 6 
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 6
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 8    66    
+ iSde = 0  and mChange = 8 
+ After appending and removing no of unitaries = 16 
+-----------------------------------------------------------
+Starting iterations for depth 3
+
+No of current unitaries = 16
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 28    186    
+ iSde = 0  and mChange = 28 
+ After appending and removing no of unitaries = 26 
+-----------------------------------------------------------
+Starting iterations for depth 4
+
+No of current unitaries = 26
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 40    294    
+ iSde = 0  and mChange = 40 
+ After appending and removing no of unitaries = 58 
+-----------------------------------------------------------
+Starting iterations for depth 5
+
+No of current unitaries = 58
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 94    668    
+ iSde = 0  and mChange = 94 
+ After appending and removing no of unitaries = 100 
+-----------------------------------------------------------
+Starting iterations for depth 6
+
+No of current unitaries = 100
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 150    1143    
+ iSde = 0  and mChange = 150 
+ After appending and removing no of unitaries = 179 
+-----------------------------------------------------------
+Starting iterations for depth 7
+
+No of current unitaries = 179
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 270    2063    
+ iSde = 0  and mChange = 270 
+ After appending and removing no of unitaries = 288 
+-----------------------------------------------------------
+Starting iterations for depth 8
+
+No of current unitaries = 288
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 377    3323    
+ iSde = 0  and mChange = 377 
+ After appending and removing no of unitaries = 417 
+-----------------------------------------------------------
+Starting iterations for depth 9
+
+No of current unitaries = 417
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 476    4823    
+ iSde = 0  and mChange = 476 
+ After appending and removing no of unitaries = 565 
+-----------------------------------------------------------
+Starting iterations for depth 10
+
+No of current unitaries = 565
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 531    6654    
+ iSde = 0  and mChange = 531 
+ After appending and removing no of unitaries = 608 
+-----------------------------------------------------------
+Starting iterations for depth 11
+
+No of current unitaries = 608
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 444    7078    
+ iSde = 0  and mChange = 444 
+ After appending and removing no of unitaries = 541 
+-----------------------------------------------------------
+Starting iterations for depth 12
+
+No of current unitaries = 541
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 692    6335    
+ iSde = 0  and mChange = 692 
+ After appending and removing no of unitaries = 663 
+-----------------------------------------------------------
+Starting iterations for depth 13
+
+No of current unitaries = 663
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 419    7888    
+ iSde = 0  and mChange = 419 
+ After appending and removing no of unitaries = 725 
+-----------------------------------------------------------
+Starting iterations for depth 14
+
+No of current unitaries = 725
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 846    8373    
+ iSde = 0  and mChange = 846 
+ After appending and removing no of unitaries = 689 
+-----------------------------------------------------------
+Starting iterations for depth 15
+
+No of current unitaries = 689
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 641    7803    
+ iSde = 0  and mChange = 641 
+ After appending and removing no of unitaries = 476 
+-----------------------------------------------------------
+Starting iterations for depth 16
+
+No of current unitaries = 476
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 519    5353    
+ iSde = 0  and mChange = 519 
+ After appending and removing no of unitaries = 461 
+-----------------------------------------------------------
+Starting iterations for depth 17
+
+No of current unitaries = 461
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 537    5114    
+ iSde = 0  and mChange = 537 
+ After appending and removing no of unitaries = 492 
+-----------------------------------------------------------
+Starting iterations for depth 18
+
+No of current unitaries = 492
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 426    5530    
+ iSde = 0  and mChange = 426 
+ After appending and removing no of unitaries = 342 
+-----------------------------------------------------------
+Starting iterations for depth 19
+
+No of current unitaries = 342
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 284    3795    
+ iSde = 0  and mChange = 284 
+ After appending and removing no of unitaries = 343 
+-----------------------------------------------------------
+Starting iterations for depth 20
+
+No of current unitaries = 343
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 270    3770    
+ iSde = 0  and mChange = 270 
+ After appending and removing no of unitaries = 342 
+-----------------------------------------------------------
+Starting iterations for depth 21
+
+No of current unitaries = 342
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 100    3811    
+ iSde = 0  and mChange = 100 
+ After appending and removing no of unitaries = 118 
+-----------------------------------------------------------
+Starting iterations for depth 22
+
+No of current unitaries = 118
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 102    1407    
+ iSde = 0  and mChange = 102 
+ After appending and removing no of unitaries = 54 
+-----------------------------------------------------------
+Starting iterations for depth 23
+
+No of current unitaries = 54
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 0    594    
+ iSde = 1  and mChange = 594 
+ After appending and removing no of unitaries = 0 
+
+No possible path. No unitaries left. 
+----------------------------------------------------
+TEST COUNT 27
+
+-----------------------------------------------------------
+Starting iterations for depth 0
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 2    12    
+ iSde = 0  and mChange = 2 
+ After appending and removing no of unitaries = 3 
+-----------------------------------------------------------
+Starting iterations for depth 1
+
+No of current unitaries = 3
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 6    34    
+ iSde = 0  and mChange = 6 
+ After appending and removing no of unitaries = 6 
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 6
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 8    66    
+ iSde = 0  and mChange = 8 
+ After appending and removing no of unitaries = 16 
+-----------------------------------------------------------
+Starting iterations for depth 3
+
+No of current unitaries = 16
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 28    186    
+ iSde = 0  and mChange = 28 
+ After appending and removing no of unitaries = 26 
+-----------------------------------------------------------
+Starting iterations for depth 4
+
+No of current unitaries = 26
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 40    294    
+ iSde = 0  and mChange = 40 
+ After appending and removing no of unitaries = 58 
+-----------------------------------------------------------
+Starting iterations for depth 5
+
+No of current unitaries = 58
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 94    668    
+ iSde = 0  and mChange = 94 
+ After appending and removing no of unitaries = 108 
+-----------------------------------------------------------
+Starting iterations for depth 6
+
+No of current unitaries = 108
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 166    1239    
+ iSde = 0  and mChange = 166 
+ After appending and removing no of unitaries = 214 
+-----------------------------------------------------------
+Starting iterations for depth 7
+
+No of current unitaries = 214
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 340    2471    
+ iSde = 0  and mChange = 340 
+ After appending and removing no of unitaries = 377 
+-----------------------------------------------------------
+Starting iterations for depth 8
+
+No of current unitaries = 377
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 549    4347    
+ iSde = 0  and mChange = 549 
+ After appending and removing no of unitaries = 651 
+-----------------------------------------------------------
+Starting iterations for depth 9
+
+No of current unitaries = 651
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 909    7500    
+ iSde = 0  and mChange = 909 
+ After appending and removing no of unitaries = 1061 
+-----------------------------------------------------------
+Starting iterations for depth 10
+
+No of current unitaries = 1061
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 1396    12249    
+ iSde = 0  and mChange = 1396 
+ After appending and removing no of unitaries = 1460 
+-----------------------------------------------------------
+Starting iterations for depth 11
+
+No of current unitaries = 1460
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 1755    16653    
+ iSde = 0  and mChange = 1755 
+ After appending and removing no of unitaries = 1904 
+-----------------------------------------------------------
+Starting iterations for depth 12
+
+No of current unitaries = 1904
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 2066    22401    
+ iSde = 0  and mChange = 2066 
+ After appending and removing no of unitaries = 1807 
+-----------------------------------------------------------
+Starting iterations for depth 13
+
+No of current unitaries = 1807
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 2271    21020    
+ iSde = 0  and mChange = 2271 
+ After appending and removing no of unitaries = 2258 
+-----------------------------------------------------------
+Starting iterations for depth 14
+
+No of current unitaries = 2258
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 3139    25930    
+ iSde = 0  and mChange = 3139 
+ After appending and removing no of unitaries = 2597 
+-----------------------------------------------------------
+Starting iterations for depth 15
+
+No of current unitaries = 2597
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 1170    30671    
+ iSde = 0  and mChange = 1170 
+ After appending and removing no of unitaries = 1629 
+-----------------------------------------------------------
+Starting iterations for depth 16
+
+No of current unitaries = 1629
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 1497    17304    
+ iSde = 0  and mChange = 1497 
+ After appending and removing no of unitaries = 1428 
+-----------------------------------------------------------
+Starting iterations for depth 17
+
+No of current unitaries = 1428
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 1190    15430    
+ iSde = 0  and mChange = 1190 
+ After appending and removing no of unitaries = 1387 
+-----------------------------------------------------------
+Starting iterations for depth 18
+
+No of current unitaries = 1387
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 898    14896    
+ iSde = 0  and mChange = 898 
+ After appending and removing no of unitaries = 1277 
+-----------------------------------------------------------
+Starting iterations for depth 19
+
+No of current unitaries = 1277
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 1166    12868    
+ iSde = 0  and mChange = 1166 
+ After appending and removing no of unitaries = 1225 
+-----------------------------------------------------------
+Starting iterations for depth 20
+
+No of current unitaries = 1225
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 728    12684    
+ iSde = 0  and mChange = 728 
+ After appending and removing no of unitaries = 1079 
+-----------------------------------------------------------
+Starting iterations for depth 21
+
+No of current unitaries = 1079
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 589    10422    
+ iSde = 0  and mChange = 589 
+ After appending and removing no of unitaries = 1055 
+-----------------------------------------------------------
+Starting iterations for depth 22
+
+No of current unitaries = 1055
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 792    9563    
+ iSde = 0  and mChange = 792 
+ After appending and removing no of unitaries = 638 
+-----------------------------------------------------------
+Starting iterations for depth 23
+
+No of current unitaries = 638
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 690    5252    
+ iSde = 0  and mChange = 690 
+ After appending and removing no of unitaries = 682 
+-----------------------------------------------------------
+Starting iterations for depth 24
+
+No of current unitaries = 682
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 338    9170    
+ iSde = 0  and mChange = 338 
+ After appending and removing no of unitaries = 153 
+-----------------------------------------------------------
+Starting iterations for depth 25
+
+No of current unitaries = 153
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 207    1879    
+ iSde = 0  and mChange = 207 
+ After appending and removing no of unitaries = 97 
+-----------------------------------------------------------
+Starting iterations for depth 26
+
+No of current unitaries = 97
+Reached Clifford. 
+Path = [ 11 :  2 :  4 :  5 :  3 :  2 :  7 :  10 :  3 :  4 :  9 :  3 :  4 :  6 :  5 :  2 :  6 :  9 :  4 :  5 :  2 :  6 :  12 :  5 :  15 :  1 :  13 : ] 
+
+Printing Clifford :
+V[0][1]= [-1,  0,  0] :V[1][2]= [1,  0,  0] :V[2][0]= [-1,  0,  0] :V[3][3]= [1,  0,  0] :V[4][5]= [-1,  0,  0] :V[5][6]= [1,  0,  0] :V[6][4]= [-1,  0,  0] :V[7][7]= [1,  0,  0] :V[8][9]= [-1,  0,  0] :V[9][10]= [1,  0,  0] :V[10][8]= [-1,  0,  0] :V[11][11]= [1,  0,  0] :V[12][13]= [-1,  0,  0] :V[13][14]= [1,  0,  0] :V[14][12]= [-1,  0,  0] :
+ Quitting other unitaries.
+Stopping iterations at depth 26 
+
+Execution time = 910.878592 

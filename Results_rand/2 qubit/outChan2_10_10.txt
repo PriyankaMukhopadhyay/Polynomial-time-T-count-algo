@@ -1,0 +1,128 @@
+#Qubits+ancilla : 2 
+Matrix size N = 16 
+Reading chan2_10_10.txt 
+Test for T-depth 10 
+Sde of given channel rep = 7 
+Hamming wt of given channel rep = 203 
+----------------------------------------------------
+TEST COUNT 7
+
+-----------------------------------------------------------
+Starting iterations for depth 0
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 1    14    
+ iSde = 0  and mChange = 1 
+ After appending and removing no of unitaries = 1 
+-----------------------------------------------------------
+Starting iterations for depth 1
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 0    14    
+ iSde = 1  and mChange = 14 
+ After appending and removing no of unitaries = 0 
+
+No possible path. No unitaries left. 
+----------------------------------------------------
+TEST COUNT 8
+
+-----------------------------------------------------------
+Starting iterations for depth 0
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 1    14    
+ iSde = 0  and mChange = 1 
+ After appending and removing no of unitaries = 1 
+-----------------------------------------------------------
+Starting iterations for depth 1
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 0    14    
+ iSde = 1  and mChange = 14 
+ After appending and removing no of unitaries = 0 
+
+No possible path. No unitaries left. 
+----------------------------------------------------
+TEST COUNT 9
+
+-----------------------------------------------------------
+Starting iterations for depth 0
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 1    14    
+ iSde = 0  and mChange = 1 
+ After appending and removing no of unitaries = 1 
+-----------------------------------------------------------
+Starting iterations for depth 1
+
+No of current unitaries = 1
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 0    14    
+ iSde = 1  and mChange = 14 
+ After appending and removing no of unitaries = 14 
+-----------------------------------------------------------
+Starting iterations for depth 2
+
+No of current unitaries = 14
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 6    178    
+ iSde = 0  and mChange = 6 
+ After appending and removing no of unitaries = 3 
+-----------------------------------------------------------
+Starting iterations for depth 3
+
+No of current unitaries = 3
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 6    33    
+ iSde = 0  and mChange = 6 
+ After appending and removing no of unitaries = 6 
+-----------------------------------------------------------
+Starting iterations for depth 4
+
+No of current unitaries = 6
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 9    72    
+ iSde = 0  and mChange = 9 
+ After appending and removing no of unitaries = 4 
+-----------------------------------------------------------
+Starting iterations for depth 5
+
+No of current unitaries = 4
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 5    50    
+ iSde = 0  and mChange = 5 
+ After appending and removing no of unitaries = 2 
+-----------------------------------------------------------
+Starting iterations for depth 6
+
+No of current unitaries = 2
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 2    25    
+ iSde = 0  and mChange = 2 
+ After appending and removing no of unitaries = 2 
+-----------------------------------------------------------
+Starting iterations for depth 7
+
+No of current unitaries = 2
+Changes matrix : Sde along row. 0:non-inc, 1:inc
+ 3    24    
+ iSde = 0  and mChange = 3 
+ After appending and removing no of unitaries = 2 
+-----------------------------------------------------------
+Starting iterations for depth 8
+
+No of current unitaries = 2
+Reached Clifford. 
+Path = [ 4 :  2 :  14 :  3 :  9 :  12 :  8 :  6 :  11 : ] 
+
+Printing Clifford :
+V[0][0]= [1,  0,  0] :V[1][1]= [1,  0,  0] :V[2][2]= [1,  0,  0] :V[3][3]= [1,  0,  0] :V[4][4]= [1,  0,  0] :V[5][5]= [1,  0,  0] :V[6][6]= [1,  0,  0] :V[7][7]= [1,  0,  0] :V[8][8]= [1,  0,  0] :V[9][9]= [1,  0,  0] :V[10][10]= [1,  0,  0] :V[11][11]= [1,  0,  0] :V[12][12]= [1,  0,  0] :V[13][13]= [1,  0,  0] :V[14][14]= [1,  0,  0] :
+ Quitting other unitaries.
+Stopping iterations at depth 8 
+
+Execution time = 0.054921 
